@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Morse Code
+# School Library
 
 > This is a Ruby application that builds a school library database.
 
