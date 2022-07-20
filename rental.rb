@@ -7,4 +7,5 @@ class Rental
     person.rentals.push(self)
   end
   attr_accessor :date
+  attr_reader :book, :person
 end
