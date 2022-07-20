@@ -4,5 +4,5 @@ class Book
     @author = author
     @rentals = []
   end
-  attr_accessor :title, :author
+  attr_accessor :title, :author, :rentals
 end
