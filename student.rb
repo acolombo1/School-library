@@ -1,8 +1,6 @@
 class Student < Person
-  def initialize(name, classroom, age = 'Unknown', parent_permission: true)
+  def initialize(name, age = 'Unknown', parent_permission: true)
     super(name, age, parent_permission: parent_permission)
-    @classroom = classroom
-    classroom.add_student(self)
   end
   attr_reader :classroom
 
