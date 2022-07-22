@@ -13,6 +13,9 @@
 - git clone https://github.com/acolombo1/School-library.git
 - cd School-library
 - Start IRB and copy the .rb files content to the command line
+## Usage
+
+- Windows: run app.exe
 ## Authors
 
 👤 **Aldo Colombo**
