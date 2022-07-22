@@ -15,7 +15,7 @@
 - Start IRB and copy the .rb files content to the command line
 ## Usage
 
-- Windows: run app.exe
+- ruby main.rb.
 ## Authors
 
 👤 **Aldo Colombo**
