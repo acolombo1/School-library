@@ -1,3 +1,4 @@
+require 'pry'
 require './app'
 
 def main

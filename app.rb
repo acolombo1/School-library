@@ -108,7 +108,7 @@ class App
 
     print 'Date: '
     date = gets.chomp
-    Rental.new(date, book_obj, person_obj)
+    Rental.new(date, Book, Person)
     puts "Rental created successfully.\n\n"
   end
 
